@@ -69,3 +69,92 @@ button {
     border: 1px solid #1e90ff;
 }
 
+/* section */
+
+.main-sections-container {
+    background-color: white;
+    border-radius: 0 0 7px 7px;
+    padding: 40px 0 0 40px;
+}
+
+.main-section {
+    margin-top: 10px;
+}
+
+/* section title */
+.triangle-down {
+    font-size: .8rem;
+    vertical-align: middle;
+}
+
+/* section content */
+
+
+.section-content-container {
+    margin: 20px 0;
+}
+
+.main-section {
+    padding-bottom: 15px;
+}
+
+
+
+.checkbox {
+    border-radius: 50%;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    font-size: .8rem;
+}
+
+.checkbox-green {
+    border: 2px solid #70b770;
+    color: #70b770;
+}
+
+.checkbox-red {
+    border: 2px solid #ff2121 ;
+    color: #ff2121 ;
+}
+
+.text-normal {
+    font-size: 1.3rem;
+}
+
+.text-label {
+    font-size: .8rem;
+    background-color: rgb(20, 114, 114);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+
+/* different color background of text-label */
+
+.text-label-blue {
+    background-color: #1e90ff;
+}
+
+.text-label-violet {
+    background-color: #9c72e4;
+}
+
+.text-label-green {
+    background-color: #64c0a9;
+}
+
+.text-label-orange {
+    background-color: #f29e33;
+}
+
+.text-label-pink {
+    background-color: #d863a1;
+}
+
+.text-label-grape {
+    background-color: #b0c926 ;
+}
+
